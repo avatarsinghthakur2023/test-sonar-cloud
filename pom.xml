@@ -31,5 +31,10 @@
     </build>
 
     <dependencies>
+        <dependency>
+            <groupId>org.twitter4j</groupId>
+            <artifactId>twitter4j-core</artifactId>
+            <version>4.1.1</version>
+        </dependency>
     </dependencies>
 </project>
